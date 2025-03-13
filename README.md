@@ -14,7 +14,9 @@ ask_question: 为班级AI评价做的一个小Demo，能回答关于LMS的一些
 
 #  mcp_demo
 
-按照MCP协议实现了MCP服务器和客户端，运行mcp_client.py可以看到效果
+server.py client.py 按照MCP协议实现了MCP服务器和客户端，运行mcp_client.py可以看到效果
+mcp_server.py mcp_client.py mcp_agent.py 把MCP功能包装成agent    
+
 
 #  rag_demo 
 
