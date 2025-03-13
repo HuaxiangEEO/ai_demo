@@ -10,12 +10,13 @@
 
 演示Function Calling
 call_func: 根据提示词让大模型调用工具回答问题，例如：strawberry中有多少个r，9.11和9.9，哪个小?
+
 ask_question: 为班级AI评价做的一个小Demo，能回答关于LMS的一些问题，例如：哪个学生没参加最近一次活动，哪个学生的成绩进步最大
 
 #  mcp_demo
 
-server.py client.py 按照MCP协议实现了MCP服务器和客户端，运行mcp_client.py可以看到效果
-mcp_server.py mcp_client.py mcp_agent.py 把MCP功能包装成agent    
+* server.py client.py 按照MCP协议实现了MCP服务器和客户端，运行mcp_client.py可以看到效果
+* mcp_server.py mcp_client.py mcp_agent.py 把MCP功能包装成agent    
 
 
 #  rag_demo 
