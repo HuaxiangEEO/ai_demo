@@ -1,0 +1,12 @@
+transformers
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+tqdm
+smolagents
+mcp
+translate
+langchain==0.1.0
+langchain-openai==0.0.5
+openai==1.12.0
